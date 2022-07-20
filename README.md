@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./public/screenshot.png)
 
 ### Links
 
@@ -38,5 +38,5 @@ This is more of an overview of basic HTML and CSS, but I'd like to go deeper int
 ## Author
 
 - Website - [Milton Sánchez](https://www.sanchezmilton.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/sanchezmilton)
-- Twitter - [@yourusername](https://www.twitter.com/sanchezgmilton)
+- Frontend Mentor - [@sanchezmilton](https://www.frontendmentor.io/profile/sanchezmilton)
+- Twitter - [@sanchezgmilton](https://www.twitter.com/sanchezgmilton)
