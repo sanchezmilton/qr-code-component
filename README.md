@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [github repo](https://github.com/sanchezmilton/qr-code-component)
-- Live Site URL: [qr-code-component](https://sanchezmilton.github.io/frontend-mentor/qr-code-component)
+- Solution URL: [qr-code-component solution](https://www.frontendmentor.io/solutions/responsive-page-using-flexbox-Rkj2-AqIHs)
+- Live Site URL: [sanchezmilton.github.io/qr-code-component/](https://sanchezmilton.github.io/qr-code-component/)
 
 ## My process
 
