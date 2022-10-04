@@ -6,19 +6,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="./public/favicon.png" type="image/x-icon">
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+          theme: {
+            extend: {
+              fontFamily: {
+                'Outfit': ['"Outfit"', 'sans-serif']
+              }
+            }
+          }
+        }
+      </script>
     <title>Frontend Mentor | QR code component</title>
     <style>
         .attribution { font-size: 11px; text-align: center; margin-top: 32px;}
         .attribution a { color: hsl(228, 45%, 44%); }
     </style>
 </head>
-<body class="h-screen bg-[#d6e2f0] flex flex-col items-center justify-center">
-    <main class="bg-white p-5 lg:w-[250px] lg:h-[350px] mx-[30px] rounded-2xl">
+<body class="font-Outfit h-screen bg-[#d6e2f0] flex flex-col items-center justify-center">
+    <main class="bg-white p-4 lg:w-[250px] lg:h-[350px] mx-[30px] rounded-2xl">
         <div class="">
-            <img class="rounded-2xl" src="./public/image-qr-code.png" alt="qr-code" />
-            <div>
-                <h1>Improve your front-end skills by building projects</h1>
-                <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
+            <img class="rounded-xl" src="./public/image-qr-code.png" alt="qr-code" />
+            <div class="flex flex-col">
+                <h1 class="font-bold text-center text-2xl mx-2 mt-7 leading-tight text-[#1f3251]">Improve your front-end skills by building projects</h1>
+                <p class="text-center my-5 text-base mx-6 text-[#7b879d]">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
             </div>
         </div>
     </main>
