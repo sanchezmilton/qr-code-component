@@ -30,10 +30,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - HTML5 semantic markup
 - CSS custom properties
 - Flexbox
+- Tailwindcss
 
 ### Continued development
 
-This is more of an overview of basic HTML and CSS, but I'd like to go deeper into improving the order and style of my web apps. Later I will investigate more about tools for CSS and I plan to also try Svelte and SvelteKit in dynamic web apps.
+This is more of an overview of basic HTML and CSS, but I'd like to go deeper into improving the order and style of my web apps. Later I will investigate more about tools for CSS.
+
+**Update**: I remade the challenge using Tailwindcss and the process was quite fast compared to using only css. I will keep practicing and adapting to this framework!
 
 ## Author
 
